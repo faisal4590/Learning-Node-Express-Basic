@@ -1,0 +1,1 @@
+app.js file e jabo first e.. okhane serially lecture note kora.
